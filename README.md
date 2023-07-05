@@ -16,4 +16,4 @@ Cryptocurrencies have gained significant attention in recent years, attracting b
 
 ## Data 
 
-The project requires historical price data for cryptocurrencies obtained from the Binance. The collected data should include historical price information for the following cryptocurrencies : Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), Dogecoin (DOGE), Litecoin (LTC), and Cardano (ADA) with closing prices and timestamp.
+The project requires historical price data for cryptocurrencies obtained from the Binance. The collected data should include historical price information for the following cryptocurrencies : Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), Dogecoin (DOGE), Litecoin (LTC), and Adacoin (ADA) with closing prices and timestamp.
