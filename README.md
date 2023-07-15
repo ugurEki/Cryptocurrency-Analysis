@@ -15,6 +15,17 @@ The project focuses on analyzing cryptocurrency data to understand market trends
 ## Tools and Statistical Techniques Used
 <b>Tools :</b> Python and Power BI
 
+<b>Data Collection files :</b>
+* Binance_Closing_Prices.ipynb
+* Binance_Cryptocurrencies.ipynb
+
+<b>Data Analysis :</b>
+* Time Series Analysis.ipynb
+* Portfolio_Optimization.ipynb
+
+<b>Dashboard:</b>
+* Dashboard.pbix
+
 <b>Statistical Techniques :</b>
 - Time Series Analysis : I employed time series analysis techniques to understand the patterns and trends in cryptocurrency data over time. This helped me in forecasting future price movements and identifying potential trading opportunities.
 - Portfolio Optimization: I used portfolio optimization techniques to construct efficient portfolios of cryptocurrencies based on risk and return considerations. This involved determining optimal asset allocations that maximize returns while minimizing risks.
