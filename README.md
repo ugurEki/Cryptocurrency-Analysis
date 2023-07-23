@@ -35,3 +35,12 @@ The project focuses on analyzing cryptocurrency data to understand market trends
 
 ## Data 
 The project requires historical price data for cryptocurrencies obtained from the Binance. The collected data should include historical price information for the following cryptocurrencies : Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), Dogecoin (DOGE), Litecoin (LTC), and Adacoin (ADA) with closing prices and timestamp. 
+
+## Dashboard
+
+![image](https://github.com/ugurEki/Cryptocurrency-Analysis/assets/82041882/07331cf5-1bb6-47a8-9227-aa9fcc72270b)
+![image](https://github.com/ugurEki/Cryptocurrency-Analysis/assets/82041882/152713bf-49c2-4743-9571-ced9ae3846e3)
+![image](https://github.com/ugurEki/Cryptocurrency-Analysis/assets/82041882/7a261c70-1b00-4b06-ae5f-def9daa4072e)
+![image](https://github.com/ugurEki/Cryptocurrency-Analysis/assets/82041882/1224b463-aa84-4cbf-b2da-156274ad6e98)
+
+
